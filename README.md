@@ -8,9 +8,9 @@ Repositório destinado ao reporte de bugs da distribuição Policorp Linux.
 
 ## Como você pode nos ajudar.
 
-Para que nós possamos melhorar, gostaríamos de relatos de bugs para reletar faça o seguinte procedimento,
+Para nos ajudar a melhorar, solicitamos que você relate os bugs seguindo o procedimento abaixo:
 
-- No nosso repositório Bugs, vá até issues.
+- No nosso repositório "Bugs", vá até issues.
 
 ![Captura de tela 2024-07-31 100938](https://github.com/user-attachments/assets/bc43e284-e5ff-44b5-a62d-4debc4ee271e)
 
